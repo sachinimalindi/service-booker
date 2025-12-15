@@ -1,0 +1,339 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Api/ServiceBooker.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Api/ServiceBooker.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Api/ServiceBooker.Api.csproj",
+        "projectName": "ServiceBooker.Api",
+        "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Api/ServiceBooker.Api.csproj",
+        "packagesPath": "/Users/sachini/.nuget/packages/",
+        "outputPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/ServiceBooker.Application.csproj": {
+                "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/ServiceBooker.Application.csproj"
+              },
+              "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Infrastructure/ServiceBooker.Infrastructure.csproj": {
+                "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Infrastructure/ServiceBooker.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/ServiceBooker.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/ServiceBooker.Application.csproj",
+        "projectName": "ServiceBooker.Application",
+        "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/ServiceBooker.Application.csproj",
+        "packagesPath": "/Users/sachini/.nuget/packages/",
+        "outputPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/ServiceBooker.Domain.csproj": {
+                "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/ServiceBooker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/ServiceBooker.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/ServiceBooker.Domain.csproj",
+        "projectName": "ServiceBooker.Domain",
+        "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/ServiceBooker.Domain.csproj",
+        "packagesPath": "/Users/sachini/.nuget/packages/",
+        "outputPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Infrastructure/ServiceBooker.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Infrastructure/ServiceBooker.Infrastructure.csproj",
+        "projectName": "ServiceBooker.Infrastructure",
+        "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Infrastructure/ServiceBooker.Infrastructure.csproj",
+        "packagesPath": "/Users/sachini/.nuget/packages/",
+        "outputPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/ServiceBooker.Application.csproj": {
+                "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/ServiceBooker.Application.csproj"
+              },
+              "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/ServiceBooker.Domain.csproj": {
+                "projectPath": "/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/ServiceBooker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

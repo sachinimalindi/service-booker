@@ -1,0 +1,12 @@
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/bin/Debug/net8.0/ServiceBooker.Domain.deps.json
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/bin/Debug/net8.0/ServiceBooker.Domain.dll
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/bin/Debug/net8.0/ServiceBooker.Domain.pdb
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ServiceBooker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ServiceBooker.Domain.AssemblyInfoInputs.cache
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ServiceBooker.Domain.AssemblyInfo.cs
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ServiceBooker.Domain.csproj.CoreCompileInputs.cache
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ServiceBooker.Domain.sourcelink.json
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ServiceBooker.Domain.dll
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/refint/ServiceBooker.Domain.dll
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ServiceBooker.Domain.pdb
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Domain/obj/Debug/net8.0/ref/ServiceBooker.Domain.dll

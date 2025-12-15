@@ -1,0 +1,16 @@
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/bin/Debug/net8.0/ServiceBooker.Application.deps.json
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/bin/Debug/net8.0/ServiceBooker.Application.dll
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/bin/Debug/net8.0/ServiceBooker.Application.pdb
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/bin/Debug/net8.0/ServiceBooker.Domain.dll
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/bin/Debug/net8.0/ServiceBooker.Domain.pdb
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.csproj.AssemblyReference.cache
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.AssemblyInfoInputs.cache
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.AssemblyInfo.cs
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.csproj.CoreCompileInputs.cache
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.sourcelink.json
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceB.FFEFD686.Up2Date
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.dll
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/refint/ServiceBooker.Application.dll
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ServiceBooker.Application.pdb
+/Users/sachini/Projects/servicebooker/service-booker/api/src/ServiceBooker.Application/obj/Debug/net8.0/ref/ServiceBooker.Application.dll
